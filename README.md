@@ -73,7 +73,7 @@ The `servo_publisher` package is configured with the following parameters:
 - **SERVO_PIN**: GPIO pin connected to the servo (default is 12).
 - **ROTATION_SPEED**: Delay in seconds between angle updates (default is 0.1).
 - **ANGLE**: Reference value to adjust the servo at a planar surface (default should be 0 degrees).
-- **OFFSET**: Offset Angle for the servo to move between '&plusmn' X degrees (default is 20 degrees).
+- **OFFSET**: Offset angle for the servo to move between ± X degrees (default is 20 degrees).
 
 Adjust these parameters in the `rotation.py` file as needed.
 
