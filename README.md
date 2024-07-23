@@ -76,6 +76,11 @@ The `servo_publisher` package is configured with the following parameters:
 - **OFFSET**: Offset angle for the servo to move between ± X degrees (default is 20 degrees).
 
 Adjust these parameters in the `rotation.py` file as needed.
+## Circuit Configuration
+
+![Circuit Diagram](https://github.com/user-attachments/assets/6a4b878f-b84d-4257-8412-ee532c6d0b8a)
+
+- **IMPORTANT**: Ensure Common Grounding of the Pi and the servo.
 
 ## Troubleshooting
 
