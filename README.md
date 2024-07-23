@@ -88,4 +88,4 @@ This package is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any issues or questions, please contact Farrukh at [farrukhajaz1@gmail.com](mailto:farrukhajaz1@gmail.com).
+For any issues or questions, please contact Farrukh Aijaz at [farrukhajaz1@gmail.com](mailto:farrukhajaz1@gmail.com).
